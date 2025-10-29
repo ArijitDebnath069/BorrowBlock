@@ -3,16 +3,13 @@
 
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.x-blue?logo=ethereum)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Stage-Beginner%20Project-orange)
+![Status](https://img.shields.io/badge/Stage-Deployed-success)
 
 ---
 
 ## 🧩 Overview
 
-
-<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/20d03147-fcf8-4809-8bb9-fe1145cfed2f" />
-
-
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/e7dfb8e0-1c69-4a78-a02b-745f9647fc02" />
 
 
 **BorrowBlock** is a beginner-friendly **Solidity smart contract** that creates a **transparent, immutable ledger** for credit (loan) agreements between lenders and borrowers.  
@@ -28,6 +25,16 @@ Everything is **public and verifiable** on the blockchain — promoting trust an
 
 ---
 
+## 📜 Deployed Contract
+
+**Network:** Ethereum (or compatible EVM chain)  
+**Contract Name:** `BorrowBlock`  
+**Address:** [`0xD04BA6AbB414f32Ba22F05816d671c35E1ee65e1`](https://etherscan.io/address/0xD04BA6AbB414f32Ba22F05816d671c35E1ee65e1)
+
+> 🔎 You can view transactions, logs, and contract events directly on [Etherscan](https://etherscan.io/address/0xD04BA6AbB414f32Ba22F05816d671c35E1ee65e1).
+
+---
+
 ## ⚙️ Features
 
 ✅ Transparent on-chain record of loan agreements  
@@ -36,7 +43,7 @@ Everything is **public and verifiable** on the blockchain — promoting trust an
 ✅ Lender withdrawal mechanism  
 ✅ Supports multiple repayments  
 ✅ Default marking after loan term expiry  
-✅ Clean event logs for tracking actions  
+✅ Event-based tracking for each action  
 
 ---
 
